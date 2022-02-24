@@ -1,6 +1,6 @@
-Prazer em conhece-lo!
+Hello!(World)
 
-Sou estudante de TI tentando uma recolocação na area Dev!
+Estudante de TI tentando uma recolocação na area Dev!
 
 Esse Aqui é meu perfil e eu espero rechea-lo em pouco tempo com bastante conteúdo de qualidade! 
 
